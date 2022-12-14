@@ -1,0 +1,4 @@
+baseURL = 'http://mattherix.github.io/'
+languageCode = 'en-ca'
+title = 'Mattherix personnal website'
+theme = 'PaperMod'
