@@ -1,4 +1,13 @@
 baseURL = 'http://mattherix.github.io/'
-languageCode = 'en-ca'
-title = 'Mattherix personnal website'
+title = 'Mattherix blog'
 theme = 'PaperMod'
+copyright = 'CC-BY-SA {year}'
+
+defaultContentLanguage = 'fr'
+[languages]
+  [languages.en]
+    title = "Mattherix's Blog"
+    weight = 1
+  [languages.fr]
+    title = 'Blog de Mattherix'
+    weight = 2
