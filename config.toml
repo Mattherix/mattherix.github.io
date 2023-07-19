@@ -1,6 +1,6 @@
 baseURL = 'http://mattherix.github.io/'
 title = 'Mattherix blog'
-theme = 'PaperMod'
+theme = ['PaperMod', 'hugo-loremipsum']
 copyright = 'CC-BY-SA {year}'
 
 defaultContentLanguage = 'fr'
